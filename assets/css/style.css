@@ -11892,7 +11892,7 @@ div#featured-project-carousel {
   box-shadow: var(--shadow-1);
   border-radius: 10px;
   background-color: #212428;
-  text-align: center;
+  text-align: center important;
   height: 100%; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .contact-about-area {
