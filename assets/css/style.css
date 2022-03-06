@@ -10803,7 +10803,8 @@ div#featured-project-carousel {
     border-radius: 10px;
     padding: 3px;
     background: #212428;
-    box-shadow: inset 8px 8px 16px #00000075, inset -8px -8px 16px #383e4575; }
+    box-shadow: inset 8px 8px 16px #00000075,
+ inset -8px -8px 16px #383e4575; }
     .progress-charts .progress .progress-bar {
       overflow: visible;
       position: relative;
@@ -14279,6 +14280,7 @@ body.white-version {
   color: var(--color-body-white); }
 
 .white-version .rn-contact-area .contact-about-area {
+  text-align: center;
   background: var(--gradient-box-w);
   box-shadow: var(--shadow-white-3); }
   .white-version .rn-contact-area .contact-about-area .title-area h4.title {
